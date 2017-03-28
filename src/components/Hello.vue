@@ -1,6 +1,7 @@
 <template>
   <div class="hello">
       <h1>Welcome to vue.js sandbox!</h1>
+
   </div>
 </template>
 
